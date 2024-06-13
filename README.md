@@ -1,4 +1,4 @@
-# cv-final-project
+# Math Test processing - computer vision
 ### Computer Vision course project repo
 
 Developed a robust and efficient system to handle the extraction and pre-processing of images containing handwritten math exam answer sheets from students in 4th and 5th grades. This involved working with a substantial dataset, consisting of 3,300 labeled images and 14,000 unlabeled images.
